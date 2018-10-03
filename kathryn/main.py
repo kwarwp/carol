@@ -1,2 +1,2 @@
 #samuelbarros.]
-from _spy.vittolino.main import Cena,Elemento,texto
+from _spy.vittolino.main import Cena,Elemento,Texto
