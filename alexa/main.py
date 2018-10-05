@@ -5,6 +5,8 @@ MACACO ="http://imagensemoldes.com.br/wp-content/uploads/2018/03/Imagem-de-Desen
 
 def Historia():
     MATA = Cena(img = "https://mundoeducacao.bol.uol.com.br/upload/conteudo_legenda/203947a3b090fb4199854898fda07ae9.jpg")
-    MACACO =Elemento
+
+  
+  macaco=Elemento(img=macaco, tit="macaco", style=dict(left=150, top=60, width=60, height=200))
     MATA.vai()
-Historia()
+Historia
