@@ -1,5 +1,5 @@
 #Heather
-from _spy.vittolino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 
 PRANCHA ="https://s3.amazonaws.com/images.shaperbuddy.com/43/surfboards/27100185252f23.png"
 
