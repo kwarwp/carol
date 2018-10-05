@@ -5,7 +5,7 @@ GOLFINHO ="https://png2.kisspng.com/20180213/dqw/kisspng-dolphin-mahi-mahi-seawa
 
 def Historia():
     PRAIA = Cena(img = "http://www.pousadazemaria.com.br/system/images/pousada-ze-maria-fernando-de-noronha-t237.jpg")
-    golfinho = Elemento(img=GOLFINHO, tit="Golfinho", style=dict(
+    golfinho = Elemento(img=GOLFINHO, tit="Golfinho", style=dict(left=150, top=60, width=60, height=200)
     PRAIA.vai()
 Historia()
     
