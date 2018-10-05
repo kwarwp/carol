@@ -4,6 +4,6 @@ from _ spy.vitollino import Cena, Elemento, Texto
 andorinhas = "https://meiosdigitais2014.files.wordpress.com/2014/05/passaros.png"
 
 def Historia():
-    PORDOSOL = Cena(img = "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISDw8QEBIVEBAPDw8PDxUVFRAQDw8PFRUWFhURFhYYHSggGBolGxUVITEhJS)
-    PORDOSOL.VAI()
+    PORDOSOL = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/c/ce/P%C3%B4r_do_Sol.jpg")
+    PORDOSOL.vai()
 Historia()
