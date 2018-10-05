@@ -1,5 +1,5 @@
 # maria
-from _spy.vittollino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 
 BONECA ="https://images-americanas.b2w.io/produtos/01/00/item/128261/5/128261584_1GG.jpg"
 def Historia() :
