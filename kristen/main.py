@@ -5,7 +5,7 @@ CAMELO ="https://cdn.pixabay.com/photo/2017/01/17/18/45/camel-1987672_960_720.pn
 
 def Historia():
     DESERTO = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Deserto_no_Cerrado.jpg")
-    CAMELO = Elemento(img = "https://cdn.pixabay.com/photo/2017/01/17/18/45/camel-1987672_960_720.png")
+    CAMELO = Elemento(img=CAMELO, tit="CAMELO" = "https://cdn.pixabay.com/photo/2017/01/17/18/45/camel-1987672_960_720.png")
     DESERTO.vai()
 Historia()    
 
