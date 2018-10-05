@@ -78,3 +78,10 @@ NameError: name 'cena' is not defined
                                                                                                 ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 05 2018 11:54:03.18 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  leao = Elemento(img=LEAO, tit="leao", style=dict(left=150, top=60, width=60, heigth=200)
+                                                                                                ^
+SyntaxError: invalid syntax
+'''},
