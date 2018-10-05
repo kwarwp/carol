@@ -17,3 +17,10 @@
     PRAIA = Cena(img = "http://www.pousadazemaria.com.br/system/images/pousada-ze-maria-fernando-de-noronha-t237.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Fri Oct 05 2018 11:55:05.995 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  golfinho = Elemento(img=GOLFINHO, tit="Golfinho", style=dict(left=150, top=60, width=60, height=200)
+                                                                                                            ^
+SyntaxError: invalid syntax
+'''},
