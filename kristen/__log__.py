@@ -17,3 +17,10 @@
     DESERTO = Cena(img = "https://cdn.pixabay.com/photo/2016/09/08/13/58/desert-1654439_960_720.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Fri Oct 05 2018 11:35:34.827 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  DESERTO = Cena(img = https://upload.wikimedia.org/wikipedia/commons/0/0c/Deserto_no_Cerrado.jpg)
+                             ^
+SyntaxError: invalid syntax
+'''},
