@@ -1,5 +1,5 @@
 #Jerry
-from _spy.vittolino.main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 
 CAMELO ="https://cdn.pixabay.com/photo/2017/01/17/18/45/camel-1987672_960_720.png"
 
