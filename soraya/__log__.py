@@ -43,3 +43,7 @@ Exception: <SyntaxError: Unexpected token {>
 'error': '''
 Exception: <SyntaxError: Unexpected token {>
 '''},
+{'date': 'Fri Oct 05 2018 11:25:54.485 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+Exception: <SyntaxError: Unexpected token {>
+'''},
