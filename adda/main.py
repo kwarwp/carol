@@ -5,5 +5,6 @@ SIRI ="https://i.pinimg.com/originals/ff/00/51/ff005199bfa12a152819f86b196a6037.
 
 def Historia():
     PRAIA = Cena(img = "https://www.fundospaisagens.com/Imagens/fundo-de-ecra-de-praia.jpg")
-    PRAIA.vai()
+ SIRI = Elemento
+ PRAIA.vai()
 Historia()
