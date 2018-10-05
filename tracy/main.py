@@ -1,5 +1,5 @@
 # eidimar
-from _spy.vitollino import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 
 ANDORINHAS = "https://meiosdigitais2014.files.wordpress.com/2014/05/passaros.png"
 
