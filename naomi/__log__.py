@@ -71,3 +71,10 @@ NameError: name 'cena' is not defined
     MONTANHA = cena(img = "https://www.fundoswiki.com/Uploads/fundoswiki.com/ImagensGrandes/paisagem-montanha-9.jpg") 
 NameError: name 'cena' is not defined
 '''},
+{'date': 'Fri Oct 05 2018 11:52:45.63 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  leao = Elemento(img=LEAO, tit="leao", style=dict(left=150, top=60, width=60, heigth=200)
+                                                                                                ^
+SyntaxError: invalid syntax
+'''},
