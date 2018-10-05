@@ -201,3 +201,10 @@ Traceback (most recent call last):
     DESERTO = CENA(img = "https://c1.staticflickr.com/4/3096/2913346696_9e9d1b3fa4.jpg")
 NameError: name 'CENA' is not defined
 '''},
+{'date': 'Fri Oct 05 2018 11:51:55.759 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  sunagakure = Elemento(img=SUNAGAKURE, tit="Sunagure", style=dict(left=150, top=60, width=60, height=200))
+  ^
+IndentationError: unexpected indent
+'''},
