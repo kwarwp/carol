@@ -89,3 +89,10 @@ NameError: name 'cena' is not defined
     CenaBeach = cena(img = "https://www.google.com.br/search?q=praia&safe=strict&rlz=1C1SQJL_pt-BRBR818&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiVv9Hu2ffdAhUC1lkKHU6VBw4Q_AUIDigB&biw=1366&bih=657#imgrc=ztCLFkXnxXHEUM:")
 NameError: name 'cena' is not defined
 '''},
+{'date': 'Mon Oct 08 2018 18:23:07.861 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  CenaTeatro=.vai()
+              ^
+SyntaxError: invalid syntax
+'''},
