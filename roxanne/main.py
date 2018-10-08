@@ -1,5 +1,5 @@
 #davy
-from _spy.vittolino.main import Cena,Elemento,Texto
+from _spy.vitollino.main import Cena,Elemento,Texto
 
 NINJA ="http://pngimg.com/uploads/ninja/ninja_PNG8.png"
 def Historia():
