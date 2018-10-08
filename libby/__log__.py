@@ -34,3 +34,10 @@ SyntaxError: invalid syntax
                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 08 2018 18:13:36.161 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 2
+  from _spy.vitolline.mainimport Cena,Elemento,Texto
+                                     ^
+SyntaxError: invalid syntax
+'''},
