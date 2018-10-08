@@ -1,5 +1,5 @@
 #Lucas
-from _spy.vitollino.Main import Cena, Elemento, Texto
+from _spy.vitollino.main import Cena, Elemento, Texto
 
 GOKU ="http://rescuedesk.me/wp-content/uploads/super-saiyan-2-goku-aura-by-brusselthesaiyan-daemjz9-png.png"
 def Historia():
