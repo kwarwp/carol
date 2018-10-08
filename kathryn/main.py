@@ -1,5 +1,5 @@
 #Samuelbarros
-from _spy.vittolino.main import Cena,Elemento, Texto 
+from _spy.vitollino.main import Cena,Elemento,Texto 
 
 PAWERRANGER="https://1.bp.blogspot.com/-mCl9tarfYd4/V5z6bLvJVWI/AAAAAAAAIAo/pgYvjjqTqn8oMXxLU_NQWyXQkIBg2kFkQCLcB/s1600/mighty_morphin__power_rangers__by_camo_flauge-da1l9zn.png"
 def Historia():
