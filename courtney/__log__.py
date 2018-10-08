@@ -29,3 +29,10 @@ SyntaxError: EOL while scanning string literal
                                                                                                                                                                                                                                                                                                                                                          ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Oct 08 2018 18:10:48.611 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  CASTELO ="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiHltyB3vfdAhWOzlkKHR49B8gQjRx6BAgBEAU&url=http%3A%2F%2Fpt-br.contos-de-hora-de-aventura.wikia.com%2Fwiki%2FArquivo%3A294392_Papel-de-Parede-Castelo-Doce-Hora-da-Aventura_1920x1080.jpg&psig=AOvVaw3Csk-jnuzvEvpqP_P6cRev&ust=1539118413301038
+                                                                                                                                                                                                                                                                                                                                                         ^
+SyntaxError: EOL while scanning string literal
+'''},
