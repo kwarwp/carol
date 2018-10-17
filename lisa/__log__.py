@@ -348,3 +348,10 @@ TypeError: 'module' object is not callable
                                                                                                    ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 17 2018 18:20:22.533 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  goku = Elemento(img=GOKU,
+                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
