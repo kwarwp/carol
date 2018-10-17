@@ -7,5 +7,6 @@ def Historia():
     goku = Elemento(img=GOKU,
            tit ="Goku",
            style = dict(left=150, top=60,width:60, height=200))
+    goku,entra(cenaTeatro
     cenaTeatro.vai()
 Historia()
