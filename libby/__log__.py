@@ -62,3 +62,9 @@ SyntaxError: invalid syntax
                  ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 17 2018 17:31:46.726 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+Exception: Cannot read property 'Cena' of undefined
+  module '$exec_464' line 2
+from _spy.vitollino.main.import Cena,Elemento,Texto
+'''},
