@@ -52,3 +52,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Oct 17 2018 18:12:16.765 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  powearranger = Elemento(img=PAWERRENGER,
+                                                                                                                                      ^
+SyntaxError: invalid syntax
+'''},
