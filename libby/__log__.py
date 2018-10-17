@@ -68,3 +68,10 @@ Exception: Cannot read property 'Cena' of undefined
   module '$exec_464' line 2
 from _spy.vitollino.main.import Cena,Elemento,Texto
 '''},
+{'date': 'Wed Oct 17 2018 18:16:21.53 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  malvado.entra(cenacastelo)
+  ^
+IndentationError: unexpected indent
+'''},
