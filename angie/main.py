@@ -7,5 +7,6 @@ def historia():
     anima=Elemento(ing=ANIMAL,
           tit="historias do mar",
           style = dict(left=150,top=60,width=60,height=200))
+   animal.entra(cenaHawaii)
    cenaHawaii.vai()
    historia()   
