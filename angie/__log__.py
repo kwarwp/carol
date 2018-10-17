@@ -20,3 +20,10 @@ SyntaxError: EOL while scanning string literal
                                                                                                                                                                                                                                                                                                                                                                                                                               ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Wed Oct 17 2018 18:18:36.226 GMt-0300 (Hora oficial do Brasil) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenaHawaii=Cena9ng="https://www.bing.com/images/search?view=detailV2&ccid=RsqA2HeD&id=F1ACA62E553A23D0C9E64DB3D4141F76208B938F&thid=OIP.RsqA2HeDbpYicvfQrURQ-QHaEK&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2fL3V7LKYPIUQ%2fmaxresdefault.jpg&exph=720&expw=1280&q=Hawaii+imGENS&simid=608001031972457035&selectedIndex=0
+                                                                                                                                                                                                                                                                                                                          ^
+SyntaxError: EOL while scanning string literal
+'''},
