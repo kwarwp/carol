@@ -45,3 +45,10 @@ SyntaxError: invalid syntax
                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 17 2018 18:11:59.597 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  powearranger = Elemento(img=PAWERRENGER,
+  ^
+IndentationError: unexpected indent
+'''},
