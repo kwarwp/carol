@@ -79,3 +79,10 @@ Traceback (most recent call last):
   module <module> line 2
     from _spy.vitollino.main import Cena,Elemento,texto
 '''},
+{'date': 'Wed Oct 17 2018 18:16:03.11 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  cenaParque.vai()
+  ^
+IndentationError: unexpected indent
+'''},
