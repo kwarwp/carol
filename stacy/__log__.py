@@ -100,3 +100,10 @@ NameError: name 'Historia' is not defined
     Historia()
 NameError: name 'Historia' is not defined
 '''},
+{'date': 'Wed Oct 17 2018 18:18:19.553 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  cinderela = Elemento(img=CINDERELA,
+                                                                                        ^
+SyntaxError: invalid syntax
+'''},
