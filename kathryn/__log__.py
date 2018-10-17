@@ -80,3 +80,10 @@ SyntaxError: invalid syntax
                                                                                                                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 17 2018 18:12:57.546 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  powerranger = Elemento(img=POWERRENGER,
+                                                                                                                                     ^
+SyntaxError: invalid syntax
+'''},
