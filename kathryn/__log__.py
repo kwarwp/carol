@@ -17,3 +17,10 @@
     cenaPraia = Cena (ing = "https://ogimg.infoglobo.com.br/boa-viagem/23123046-813-45f/GEOMIDIA/375/xwater-3092908_1920.jpg.pagespeed.ic.7q4TE_WU0u.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Wed Oct 17 2018 18:10:24.128 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  powearranger = Elemento(img=PAWER RENGER,
+                                     ^
+SyntaxError: invalid syntax
+'''},
