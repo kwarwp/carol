@@ -380,3 +380,10 @@ SyntaxError: invalid syntax
     goku,entra(cenaTeatro)
 NameError: name 'entra' is not defined
 '''},
+{'date': 'Wed Oct 17 2018 18:26:38.730 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  goku = Elemento(img=GOKU,
+  ^
+IndentationError: unexpected indent
+'''},
