@@ -387,3 +387,10 @@ NameError: name 'entra' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Oct 17 2018 18:27:05.882 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  Goku = Elemento(img=GOKU,
+  ^
+IndentationError: unexpected indent
+'''},
