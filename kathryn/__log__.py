@@ -87,3 +87,10 @@ SyntaxError: invalid syntax
                                                                                                                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 17 2018 18:13:49.216 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  powerranger.entra(cena floresta)               
+                          ^
+SyntaxError: invalid syntax
+'''},
