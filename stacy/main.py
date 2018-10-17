@@ -5,8 +5,8 @@ CINDERELA="http://imagensemoldes.com.br/wp-content/uploads/2018/04/Imagem-de-Per
 def Historia():
     cenaCastelo = Cena(img ="https://www.vaipradisney.com/blog/wp-content/uploads/2017/05/QUARTO-CASTELO-CINDERELA-13.jpg")
     cinderela = Elemento(img=CINDERELA,
-                tit ="cinderela"
-                style = dict(left=150, top=60, width=60, heighy=200))
+                tit ="Cinderela",
+                style = dict(left=150, top=60, width=60, height=200))
     cinderela.entra(cenaCastelo)
     cenaCastelo.vai()    
 Historia()
