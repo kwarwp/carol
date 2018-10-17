@@ -341,3 +341,10 @@ TypeError: 'module' object is not callable
     cenaTeatro = Cena(img ="http://1.bp.blogspot.com/-aGwacYjRKw8/T-St9kEVvMI/AAAAAAAAAvs/ximTg6O8XUA/s1600/ESCENARIOS29+%282%.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Wed Oct 17 2018 18:15:07.301 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  goku = Elemento(img=GOKU,
+                                                                                                   ^
+SyntaxError: invalid syntax
+'''},
