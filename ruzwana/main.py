@@ -7,5 +7,6 @@ def Historia():
         chica = Elemento(img=Chica,
                 tit ="Chica",
                 style = dict(left=150, top=60, width=60, height=200))
+        chica.entra(cenaTeatro)
         CenaTeatro.vai()
 Historia()
