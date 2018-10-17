@@ -9,5 +9,5 @@ def Historia():
                         tit=" Goku Deus Super Sayjin",
                         style=dict(left=150, top=100, width= 90, height= 200))
     gokudeussupersayjin.entra(cenafloresta)
-      cenafloresta.vai()                
-    hitoria()  
+    cenafloresta.vai()                
+Historia()  
