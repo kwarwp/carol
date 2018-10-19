@@ -171,3 +171,10 @@ NameError: name 'cenaTeatro' is not defined
     CenaTeatro.vai()
 NameError: name 'CenaTeatro' is not defined
 '''},
+{'date': 'Fri Oct 19 2018 11:13:30.232 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  Chica=
+         ^
+SyntaxError: invalid syntax
+'''},
