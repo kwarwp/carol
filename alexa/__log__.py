@@ -38,3 +38,10 @@ UnboundLocalError: local variable 'macaco' referenced before assignment
                                                                                                     ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:35:08.308 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  macaco= Elemento(img=MACACO, tit="macaco", style=dict(left=150, top=60, width=60, height=200)
+                                                                                                     ^
+SyntaxError: invalid syntax
+'''},
