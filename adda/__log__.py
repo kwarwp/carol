@@ -22,3 +22,10 @@ NameError: name 'HISTORIA' is not defined
                                          ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:13:33.846 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  siri = Elemento(img=SIRI, tit="Siri", =dict(left=150, top=60, whidth=60, height=200))
+                                         ^
+SyntaxError: invalid syntax
+'''},
