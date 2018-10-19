@@ -232,3 +232,10 @@ AttributeError: 'Cena' object has no attribute 'Vai'
     cenaoceano = Cena(img="https://mardehistorias.files.wordpress.com/2010/11/oceano.jpg")              
 NameError: name 'Cena' is not defined
 '''},
+{'date': 'Fri Oct 19 2018 11:36:56.367 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  Chica=
+         ^
+SyntaxError: invalid syntax
+'''},
