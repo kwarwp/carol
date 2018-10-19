@@ -318,3 +318,10 @@ SyntaxError: keyword argument repeated
                                                                   ^
 SyntaxError: keyword argument repeated
 '''},
+{'date': 'Fri Oct 19 2018 11:55:22.856 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  nemo = Elemento(img=nemo,tit="nemo",style=dict(left = 150, left = 60, height = 60, width = 150))
+                                                                  ^
+SyntaxError: keyword argument repeated
+'''},
