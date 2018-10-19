@@ -6,3 +6,10 @@
                                      ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:52:58.579 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  Hospital ="http://osshmtj.org.br/layout/imagens/h02.jpg"M
+                                                           ^
+SyntaxError: invalid syntax
+'''},
