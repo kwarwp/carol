@@ -83,3 +83,10 @@ AttributeError: 'Cena' object has no attribute 'Vai'
     ILHA.Vai ()
 AttributeError: 'Cena' object has no attribute 'Vai'
 '''},
+{'date': 'Fri Oct 19 2018 11:40:47.369 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  Historia() y
+              ^
+SyntaxError: invalid syntax
+'''},
