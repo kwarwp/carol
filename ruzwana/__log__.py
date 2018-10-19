@@ -262,3 +262,10 @@ IndentationError: unexpected indent
     Historia()
 NameError: name 'Historia' is not defined
 '''},
+{'date': 'Fri Oct 19 2018 11:50:04.116 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 13
+  style=dict(left=180, left = 40, height = 40, width = 170))
+                            ^
+SyntaxError: keyword argument repeated
+'''},
