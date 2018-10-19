@@ -257,3 +257,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Fri Oct 19 2018 11:33:10.664 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  sunagakure = Elemento(img=SUNAGAKURE, tit="Sunagure", style=dict(left=150, top=60, width=60, height=200))
+  ^
+IndentationError: unexpected indent
+'''},
