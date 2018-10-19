@@ -31,3 +31,10 @@ IndentationError: unexpected indent
     macaco=Elemento(img=macaco, tit="macaco", style=dict(left=150, top=60, width=60, height=200))
 UnboundLocalError: local variable 'macaco' referenced before assignment
 '''},
+{'date': 'Fri Oct 19 2018 11:34:41.918 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 8
+  macaco=Elemento(img=macaco, tit="macaco", style=dict(left=150, top=60, width=60, height=200)
+                                                                                                    ^
+SyntaxError: invalid syntax
+'''},
