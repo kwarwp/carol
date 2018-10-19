@@ -90,3 +90,10 @@ AttributeError: 'Cena' object has no attribute 'Vai'
               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:42:15.344 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  zumbi9.entra
+  ^
+IndentationError: unexpected indent
+'''},
