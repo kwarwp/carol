@@ -239,3 +239,10 @@ NameError: name 'Cena' is not defined
          ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Fri Oct 19 2018 11:38:38.675 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  nemo.entra(cenaoceano)
+  ^
+IndentationError: unexpected indent
+'''},
