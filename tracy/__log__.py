@@ -229,3 +229,10 @@ TypeError: 'module' object is not callable
     PORDOSOL = Cena(img = "https://upload.wikimedia.org/wikipedia/commons/c/ce/P%C3%B4r_do_Sol.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Fri Oct 19 2018 11:46:41.979 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  ANDORINHAS.entra(PORDOSOL)
+  ^
+IndentationError: unexpected indent
+'''},
