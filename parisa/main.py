@@ -1,12 +1,14 @@
 #Arthur Correa  
 from _spy.vitollino.main import Cena, Elemento,Texto
 
-CACADOR="http://www.culturamix.com/wp-content/gallery/cacador-2/images.png"
+CACADOR="https://2.bp.blogspot.com/-proH1UNc9Yw/V1ShJQ0HsMI/AAAAAAAAGF4/dSBPvEvXwDYFgEi1jLNlIcnc6JwKhmtawCLcB/s1600/o-ca%25C3%25A7ador-e-a-rainha-do-gelo-poshhterk.png"
 def Historia():
     cenaFloresta=Cena(img="http://homeroreis.com/wp-content/uploads/2015/10/floresta.jpg")
     cacador = Elemento(img= CACADOR,
               tit ="Caçador",
               style = dict(left=150, top=60, width=60, height=200))
     cacador.entra(cenaFloresta)
+    txtcacador = Texto (cenaFloreta, "Hello")
+    txtcacador, vai = cacador
     cenaFloresta.vai()
 Historia()
