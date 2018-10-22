@@ -43,3 +43,10 @@ SyntaxError: EOL while scanning string literal
                                                                                                                                                                                                                                                                                                                                                          ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Mon Oct 22 2018 18:30:10.634 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  anima=Elmento(ing=ANIMAL,
+  ^
+IndentationError: unexpected indent
+'''},
