@@ -132,3 +132,10 @@ NameError: name 'mario' is not defined
     MarioBros= Elemento(img=Mario,
 NameError: name 'Mario' is not defined
 '''},
+{'date': 'Mon Oct 22 2018 18:03:47.769 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  mario.entra(cenaCASTLE)
+  ^
+IndentationError: unexpected indent
+'''},
