@@ -10,5 +10,6 @@ def Historia():
                         style=dict(left=150, top=60, width= 60, height= 200))
                         
     gokudeussupersayjin.entra(cenaFloresta)
-    cenaFloresta.vai()                
+    cenaFloresta.vai()
+    txtGoKu=Texto (cenaFLORESTA, "Hello")
 Historia()  
