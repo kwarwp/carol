@@ -114,3 +114,10 @@ SyntaxError: invalid syntax
                                                                                         ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 22 2018 18:01:38.79 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  txtcinderela.vai = cinderela vai
+                                ^
+SyntaxError: invalid syntax
+'''},
