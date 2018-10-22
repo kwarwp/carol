@@ -139,3 +139,10 @@ NameError: name 'Mario' is not defined
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Mon Oct 22 2018 18:06:36.358 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  mario.entra(cenaCastle)
+  ^
+IndentationError: unexpected indent
+'''},
