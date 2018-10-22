@@ -1,4 +1,4 @@
-#Cibele
+#matheus
 from _spy.vitollino.main import Cena, Elemento, Texto
 
 SAPO ="https://www.imagenspng.com.br/wp-content/uploads/2015/04/galinha-pintadinha-sapo-1.png"
