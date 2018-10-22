@@ -401,3 +401,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Mon Oct 22 2018 17:43:17.383 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  Goku = Elemento(img,
+  ^
+IndentationError: unexpected indent
+'''},
