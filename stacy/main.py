@@ -8,7 +8,7 @@ def Historia():
                 tit ="Cinderela",
                 style = dict(left=150, top=60, width=60, height=200))
     cinderela.entra(cenaCastelo)
-    txtcinderela = Texto (cenacastelo, "Hello")
+    txtcinderela = Texto (cenaCastelo, "Hello")
     cinderela.vai = txtcinderela.vai 
     cenaCastelo.vai()    
 Historia()
