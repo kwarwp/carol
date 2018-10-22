@@ -6,8 +6,8 @@ def Historia():
     mario= Elemento(img=MarioBros,
             tit = "Mario",
             style = dict(left=150, top=60, width=60, height=200))
-            mario.entra(cenaCastle)
-            txtmarioBros = Texto (cenaCastle,  "Hello")
-            txtmarioBros.vai=MarioBros.vai
+    mario.entra(cenaCastle)
+    txtmarioBros = Texto (cenaCastle,  "Hello")
+    txtmarioBros.vai=MarioBros.vai
     cenaCastle.vai()
 Historia()
