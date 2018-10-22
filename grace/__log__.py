@@ -171,3 +171,10 @@ AttributeError: 'str' object has no attribute 'vai'
                   ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 22 2018 18:29:04.755 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  cenaCastle.vai()a
+                   ^
+SyntaxError: invalid syntax
+'''},
