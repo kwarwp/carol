@@ -17,3 +17,10 @@
     CASTELO = Cena(img = "http://obviousmag.org/grifo/assets_c/2016/05/castelo-thumb-800x400-149789.jpg")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Mon Oct 22 2018 18:18:54.704 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  cena floresta
+  ^
+IndentationError: unexpected indent
+'''},
