@@ -8,5 +8,5 @@ def Historia():
            tit ="Goku",
            style = dict(left=150, top=60,width=60, height=200))
     goku.entra(cenaTeatro)
-    cenaTeatro.vai
+    cenaTeatro.vai()
 Historia()
