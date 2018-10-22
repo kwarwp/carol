@@ -164,3 +164,10 @@ IndentationError: unexpected indent
     txtmarioBros.vai=MarioBros.vai
 AttributeError: 'str' object has no attribute 'vai'
 '''},
+{'date': 'Mon Oct 22 2018 18:15:12.326 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 3
+  MarioBros= http://pt.universomario.wikia.com/wiki/Ficheiro:Super-mario-bros-PNG-172x300.png
+                  ^
+SyntaxError: invalid syntax
+'''},
