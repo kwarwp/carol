@@ -20,3 +20,10 @@ SyntaxError: invalid syntax
                                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 22 2018 17:43:58.221 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  cenaFloresta= Cena(img="https://upload.wikimedia.org/wikipedia/commons/f/f5/Floresta_de_Chantilly.JPG"
+                                                                                                              ^
+SyntaxError: invalid syntax
+'''},
