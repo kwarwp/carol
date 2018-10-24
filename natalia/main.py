@@ -7,7 +7,7 @@ def Historia():
     cenaFloresta=Cena(img="https://upload.wikimedia.org/wikipedia/commons/f/f5/Floresta_de_Chantilly.JPG")
     gokudeussupersayjin = Elemento(img = GOKU,
                           tit= " goku deus super sayjin",
-                          style=dict(left=150, top=60, width= 60, height= 200))
+                          style=dict(left=150, top=100, width= 60, height= 200))
                         
     gokudeussupersayjin.entra(cenaFloresta)
     txtGoKu=Texto (cenaFloresta, "Hello")
