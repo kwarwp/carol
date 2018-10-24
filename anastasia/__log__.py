@@ -24,3 +24,10 @@ TypeError: 'module' object is not callable
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Oct 24 2018 18:03:39.244 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  cacador.entra[cena floresta]txtcacador
+                      ^
+SyntaxError: invalid syntax
+'''},
