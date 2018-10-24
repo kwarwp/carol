@@ -280,3 +280,10 @@ NameError: name 'CACADOR' is not defined
     cacador = Elemento(img= CACADOR,
 NameError: name 'CACADOR' is not defined
 '''},
+{'date': 'Wed Oct 24 2018 18:20:41.45 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 7
+  bingbong = Elemento(img= BINGBONG,
+  ^
+IndentationError: unexpected indent
+'''},
