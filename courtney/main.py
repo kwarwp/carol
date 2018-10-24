@@ -8,7 +8,7 @@ def Historia():
                tit="historias da neve",
                style = dict(left=150,top=60,width=60,height=200))
     personagem.entra(cenaSea)
-    txtpersonagem = Texto (cenaSea, "Hello"
-    cena.vai()
+    txtpersonagem = Texto (cenaSea,"Hello")
+    personagem.vai()
     cenaSea.vai
 Historia()   
