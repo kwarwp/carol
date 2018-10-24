@@ -1,7 +1,7 @@
 #matheus
 from _spy.vitollino.main import Cena, Elemento, Texto
 
-SAPO ="https://www.imagenspng.com.br/wp-content/uploads/2015/04/galinha-pintadinha-sapo-1.png"
+SAPO ="http://clipart.coolclips.com/480/vectors/tf05031/CoolClips_anim0220.png"
 
 def Historia():
     CASTELO = Cena(img = "http://obviousmag.org/grifo/assets_c/2016/05/castelo-thumb-800x400-149789.jpg")
