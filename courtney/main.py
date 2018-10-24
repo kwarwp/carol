@@ -7,7 +7,8 @@ def Historia():
     personagem=Elemento(img=PERSONAGEM,
                tit="historias da neve",
                style = dict(left=150,top=60,width=60,height=200))
-    personagem.entra(cenaHawaii)
-    cenaHawaii.vai()
+    personagem.entra(cenaSea)
+    txtpersonagem = Texto (cenaSea, "Hello"
+    cena.vai()
     cenaSea.vai
 Historia()   
