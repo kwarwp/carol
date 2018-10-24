@@ -230,3 +230,10 @@ SyntaxError: invalid syntax
                                                                                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 24 2018 18:05:03.220 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  FOCA="https://st2.depositphotos.com/4002829/5849/v/950/depositphotos_58499447-stock-illustration-foca.jpg
+                                                                                                           ^
+SyntaxError: EOL while scanning string literal
+'''},
