@@ -174,3 +174,10 @@ IndentationError: expected an indented block
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Wed Oct 24 2018 17:33:47.665 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenaHawaii=Cena(ing="https://cdn.pixabay.com/photo/2017/06/10/11/16/landscape-2389694_960_720.jpg"
+  ^
+IndentationError: expected an indented block
+'''},
