@@ -305,3 +305,10 @@ IndentationError: unexpected indent
     cacador.entra(cenaFloresta)
 NameError: name 'cacador' is not defined
 '''},
+{'date': 'Wed Oct 24 2018 18:21:51.194 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 10
+  bingbog.entra(cenaFloresta)
+  ^
+IndentationError: unexpected indent
+'''},
