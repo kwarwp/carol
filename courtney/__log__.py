@@ -85,3 +85,10 @@ IndentationError: unexpected indent
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Oct 24 2018 17:35:33.481 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 11
+  txtpersonagem = Texto (ceno, "Hello"
+                                            ^
+SyntaxError: invalid syntax
+'''},
