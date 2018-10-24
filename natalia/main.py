@@ -11,6 +11,6 @@ def Historia():
                         
     gokudeussupersayjin.entra(cenaFloresta)
     txtGoKu=Texto (cenaFloresta, "Hello")
-    gokudeussupersayjin.vai=txtgokudeussupersayjin.vai
+    gokudeussupersayjin.vai = txtGoKu.vai
     cenaFloresta.vai()
 Historia()  
