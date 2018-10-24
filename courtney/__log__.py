@@ -50,3 +50,10 @@ SyntaxError: EOL while scanning string literal
   ^
 IndentationError: unexpected indent
 '''},
+{'date': 'Wed Oct 24 2018 17:18:36.105 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 9
+  anima=Elmento(ing=ANIMAL,
+  ^
+IndentationError: unexpected indent
+'''},
