@@ -131,3 +131,10 @@ TypeError: 'module' object is not callable
     cenaFloresta=Cena(img="https://upload.wikimedia.org/wikipedia/commons/f/f5/Floresta_de_Chantilly.JPG")
 TypeError: 'module' object is not callable
 '''},
+{'date': 'Wed Oct 24 2018 17:21:51.879 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  gokudeussupersayjin.entra(cenaFloresta
+                                              ^
+SyntaxError: invalid syntax
+'''},
