@@ -7,7 +7,7 @@ def Historia():
             tit = "Mario",
             style = dict(left=150, top=60, width=60, height=200))
     mario.entra(cenaCastle)
-    txtmarioBros = Texto (cenaCastle,  "Hello")
+    txtmario = Texto (cenaCastle,  "Hello")
     txtmario.vai=mario.vai
-    cenaCastle.vai()a
+    cenaCastle.vai()
 Historia()
