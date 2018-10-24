@@ -223,3 +223,10 @@ SyntaxError: invalid syntax
                                                                                              ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Wed Oct 24 2018 17:52:28.328 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  cenaHawaii=Cena(ing="http://turmadoparque.com.br/img/personagens/dona-foca.png"
+                                                                                       ^
+SyntaxError: invalid syntax
+'''},
