@@ -237,3 +237,10 @@ SyntaxError: invalid syntax
                                                                                                            ^
 SyntaxError: EOL while scanning string literal
 '''},
+{'date': 'Wed Oct 24 2018 18:19:16.684 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 4
+  BING BONG="https://1.bp.blogspot.com/-Es_iDlKRTbs/V5u5Qt7b99I/AAAAAAAAHqQ/VjTmmynFDREmMq-U5NpUhY8Cxm3q1hZHgCLcB/s640/Bingbong.png"
+        ^
+SyntaxError: invalid syntax
+'''},
