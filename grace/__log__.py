@@ -214,3 +214,10 @@ NameError: name 'txtmario' is not defined
     mario.vai=txtmario.vai
 NameError: name 'txtmario' is not defined
 '''},
+{'date': 'Wed Oct 24 2018 17:28:23.788 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 12
+  cenaCastle.vai()a
+                   ^
+SyntaxError: invalid syntax
+'''},
