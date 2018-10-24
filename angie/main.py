@@ -1,14 +1,14 @@
 # bruna de sa
 from _spy.vitollino.main import Cena, Elemento,Texto
 
-CACADOR="https://2.bp.blogspot.com/-proH1UNc9Yw/V1ShJQ0HsMI/AAAAAAAAGF4/dSBPvEvXwDYFgEi1jLNlIcnc6JwKhmtawCLcB/s1600/o-ca%25C3%25A7ador-e-a-rainha-do-gelo-poshhterk.png"
+BINGBONG="https://1.bp.blogspot.com/-Es_iDlKRTbs/V5u5Qt7b99I/AAAAAAAAHqQ/VjTmmynFDREmMq-U5NpUhY8Cxm3q1hZHgCLcB/s640/Bingbong.png"
 def Historia():
-    cenaFloresta=Cena(img="http://homeroreis.com/wp-content/uploads/2015/10/floresta.jpg")
-    cacador = Elemento(img= CACADOR,
+    cenaFloresta=Cena(img="https://i.pinimg.com/originals/75/37/5f/75375f348c8cc15f919bfc05f37dbb72.jpg")
+    bingbong = Elemento(img= BINGBONG,
               tit ="Caçador",
               style = dict(left=150, top=60, width=60, height=200))
-    cacador.entra(cenaFloresta)
+    bingbong.entra(cenaFloresta)
     txtcacador = Texto (cenaFloresta, "Hello")
-    cacador.vai = txtcacador.vai
+    bingbong.vai = txtcacador.vai
     cenaFloresta.vai()
 Historia()
